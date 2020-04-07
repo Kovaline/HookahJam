@@ -1,0 +1,34 @@
+{
+  "tobacco": [
+    {
+      "grams": [
+        "1kg",
+        "50gr"
+      ],
+      "name": "Serbetli",
+      "image": "https://jsonformatter.org/img/tom-cruise.jpg",
+      "price": "Low",
+      "strength": "Low"
+    },
+    {
+      "grams": [
+        "250gr",
+        "100gr"
+      ],
+      "name": "Tangiers",
+      "image": "https://jsonformatter.org/img/tom-cruise.jpg",
+      "price": "High",
+      "strength": "Extreme"
+    },
+    {
+      "grams": [
+        "250gr",
+        "100gr"
+      ],
+      "name": "DarkSide",
+      "image": "https://jsonformatter.org/img/tom-cruise.jpg",
+      "price": "Medium",
+      "strength": "High"
+    }
+  ]
+}

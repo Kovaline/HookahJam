@@ -1,0 +1,30 @@
+{
+    "tangiers250gr": [
+      {
+        "name": "Orange Soda",
+        "image": "https://jsonformatter.org/img/tom-cruise.jpg"
+      },
+      {
+        "name": "Guava",
+        "image": "https://jsonformatter.org/img/tom-cruise.jpg"
+      },
+      {
+        "name": "Cane Mint",
+        "image": "https://jsonformatter.org/img/tom-cruise.jpg"
+      }
+    ],
+    "tangiers100gr": [
+      {
+        "name": "Cashmir",
+        "image": "https://jsonformatter.org/img/tom-cruise.jpg"
+      },
+      {
+        "name": "Guava",
+        "image": "https://jsonformatter.org/img/tom-cruise.jpg"
+      },
+      {
+        "name": "Cane Mint",
+        "image": "https://jsonformatter.org/img/tom-cruise.jpg"
+      }
+    ]
+}

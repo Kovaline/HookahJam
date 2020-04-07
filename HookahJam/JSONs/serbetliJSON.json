@@ -1,0 +1,50 @@
+{
+    "serbetli50gr": [
+        {
+            "name": "Blueberry",
+            "image": "https://jsonformatter.org/img/tom-cruise.jpg",
+            "hsname": "chernika-blueberry",
+            "hydraname": "blueberry",
+            "tornadoname": "blueberry-50g",
+            "kalyanname": "chernika-50-gramm"
+        },
+        {
+            "name": "Mango",
+            "image": "https://jsonformatter.org/img/tom-cruise.jpg",
+            "hsname": "mango",
+            "hydraname": "mango",
+            "tornadoname": "mango-50g",
+            "kalyanname": "mango-50-gramm"
+        },
+        {
+            "name": "Banana",
+            "image": "https://jsonformatter.org/img/tom-cruise.jpg",
+            "hsname": "banana",
+            "hydraname": "banana",
+            "tornadoname": "banana-50g",
+            "kalyanname": "banan-50-gramm"
+        },
+        {
+            "name": "Baya Blue",
+            "image": "https://jsonformatter.org/img/tom-cruise.jpg",
+            "hsname": "baya-blue",
+            "hydraname": "baja_blue",
+            "tornadoname": "baya-blue-50g",
+            "kalyanname": "baya-blue-berry-50-gramm"
+        }
+    ],
+    "serbetli1kg": [
+        {
+            "name": "Biscuit",
+            "image": "https://jsonformatter.org/img/tom-cruise.jpg"
+        },
+        {
+            "name": "Mango",
+            "image": "https://jsonformatter.org/img/tom-cruise.jpg"
+        },
+        {
+            "name": "Banana",
+            "image": "https://jsonformatter.org/img/tom-cruise.jpg"
+        }
+    ]
+}

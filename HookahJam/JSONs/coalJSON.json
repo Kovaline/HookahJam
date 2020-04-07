@@ -1,0 +1,22 @@
+{
+    "coal": [
+      {
+        "name": "Serbetli",
+        "image": "https://jsonformatter.org/img/tom-cruise.jpg",
+        "price": "Low",
+        "strength": "Low"
+      },
+      {
+        "name": "Tangiers",
+        "image": "https://jsonformatter.org/img/tom-cruise.jpg",
+        "price": "High",
+        "strength": "Extreme"
+      },
+      {
+        "name": "DarkSide",
+        "image": "https://jsonformatter.org/img/tom-cruise.jpg",
+        "price": "Medium",
+        "strength": "High"
+      }
+    ]
+}

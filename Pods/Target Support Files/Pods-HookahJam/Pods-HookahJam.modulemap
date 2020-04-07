@@ -1,0 +1,6 @@
+framework module Pods_HookahJam {
+  umbrella header "Pods-HookahJam-umbrella.h"
+
+  export *
+  module * { export * }
+}
